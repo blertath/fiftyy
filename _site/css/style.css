@@ -803,6 +803,7 @@ p {
 .js .to-animate, .js
 .to-animate-2, .js
 .animate-box {
+  background-color: #943E91
   opacity: 0;
 }
 
