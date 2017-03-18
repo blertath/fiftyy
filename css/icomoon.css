@@ -1100,6 +1100,8 @@
 }
 .icon-facebook-with-circle:before {
     content: "\ea66";
+    width: 100px
+    
 }
 .icon-facebook:before {
     content: "\ea67";
